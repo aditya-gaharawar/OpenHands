@@ -12111,6 +12111,38 @@
     "de": "Für diese E-Mail-Adresse existiert bereits ein Konto.",
     "uk": "Обліковий запис з цією електронною адресою вже існує."
   },
+  "AUTH$RECAPTCHA_BLOCKED": {
+    "en": "Access blocked due to suspicious activity. If you believe this is an error, please contact contact@openhands.dev for assistance.",
+    "ja": "不審なアクティビティのためアクセスがブロックされました。これが誤りだと思われる場合は、contact@openhands.dev までお問い合わせください。",
+    "zh-CN": "由于可疑活动，访问已被阻止。如果您认为这是错误的，请联系 contact@openhands.dev 寻求帮助。",
+    "zh-TW": "由於可疑活動，存取已被封鎖。如果您認為這是錯誤的，請聯繫 contact@openhands.dev 尋求協助。",
+    "ko-KR": "의심스러운 활동으로 인해 접근이 차단되었습니다. 오류라고 생각되시면 contact@openhands.dev로 문의해 주세요.",
+    "no": "Tilgang blokkert på grunn av mistenkelig aktivitet. Hvis du mener dette er en feil, vennligst kontakt contact@openhands.dev for hjelp.",
+    "it": "Accesso bloccato a causa di attività sospetta. Se ritieni che si tratti di un errore, contatta contact@openhands.dev per assistenza.",
+    "pt": "Acesso bloqueado devido a atividade suspeita. Se você acredita que isso é um erro, entre em contato com contact@openhands.dev para obter ajuda.",
+    "es": "Acceso bloqueado debido a actividad sospechosa. Si cree que esto es un error, comuníquese con contact@openhands.dev para obtener ayuda.",
+    "ar": "تم حظر الوصول بسبب نشاط مشبوه. إذا كنت تعتقد أن هذا خطأ، يرجى الاتصال بـ contact@openhands.dev للحصول على المساعدة.",
+    "fr": "Accès bloqué en raison d'une activité suspecte. Si vous pensez qu'il s'agit d'une erreur, veuillez contacter contact@openhands.dev pour obtenir de l'aide.",
+    "tr": "Şüpheli aktivite nedeniyle erişim engellendi. Bunun bir hata olduğunu düşünüyorsanız, yardım için lütfen contact@openhands.dev ile iletişime geçin.",
+    "de": "Zugriff aufgrund verdächtiger Aktivitäten blockiert. Wenn Sie glauben, dass dies ein Fehler ist, wenden Sie sich bitte an contact@openhands.dev.",
+    "uk": "Доступ заблоковано через підозрілу активність. Якщо ви вважаєте, що це помилка, зверніться до contact@openhands.dev за допомогою."
+  },
+  "AUTH$LETS_GET_STARTED": {
+    "en": "Let's get started",
+    "ja": "始めましょう",
+    "zh-CN": "让我们开始吧",
+    "zh-TW": "讓我們開始吧",
+    "ko-KR": "시작해 봅시다",
+    "no": "La oss komme i gang",
+    "it": "Iniziamo",
+    "pt": "Vamos começar",
+    "es": "Empecemos",
+    "ar": "لنبدأ",
+    "fr": "Commençons",
+    "tr": "Başlayalım",
+    "de": "Lass uns anfangen",
+    "uk": "Почнімо"
+  },
   "COMMON$TERMS_OF_SERVICE": {
     "en": "Terms of Service",
     "ja": "利用規約",
@@ -14862,6 +14894,22 @@
     "tr": "Çalışıyor",
     "de": "Läuft",
     "uk": "Працює"
+  },
+  "COMMON$WAITING_FOR_SANDBOX": {
+    "en": "Waiting for sandbox",
+    "ja": "サンドボックスを待機中",
+    "zh-CN": "等待沙盒",
+    "zh-TW": "等待沙盒",
+    "ko-KR": "샌드박스를 기다리는 중",
+    "no": "Venter på sandkasse",
+    "it": "In attesa del sandbox",
+    "pt": "Aguardando sandbox",
+    "es": "Esperando el sandbox",
+    "ar": "في انتظار البيئة المعزولة",
+    "fr": "En attente du bac à sable",
+    "tr": "Sandbox bekleniyor",
+    "de": "Warten auf Sandbox",
+    "uk": "Очікування пісочниці"
   },
   "COMMON$SELECT_GIT_PROVIDER": {
     "en": "Select Git provider",
